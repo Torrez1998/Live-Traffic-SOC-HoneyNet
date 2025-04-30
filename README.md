@@ -14,7 +14,7 @@ Within this project, I have developed a compact honeynet using Azure, where I in
 The architecture of the mini honeynet in Azure has the following components:
 
 - Virtual Network (VNet)
-- Network Security Group (NSG)
+- Network Security Group (NSG) 
 - Virtual Machines (2 Windows, 1 Linux)
 - Log Analytics Workspace
 - Azure Key Vault
